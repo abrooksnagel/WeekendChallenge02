@@ -1,0 +1,72 @@
+/*.index-point {
+    width: 25px;
+    height: 25px;
+    background-color: #dad5d2;
+    border: 1px solid black;
+    float: left;
+    display: inline-block;
+}
+
+.index-point-active {
+    background-color: #ee100d;
+}
+
+.person-shoutout {
+    height: 200px;
+}*/
+
+body {
+    background-color: whitesmoke;
+}
+
+#peopleContainer {
+    height: 300px;
+    width: 600px;
+    margin: 50px auto;
+    border: solid 2px #b2b2b2;
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: #b2b2b2;
+}
+
+.prev {
+    float: left;
+    height: 20px;
+    margin: 140px 5px;
+}
+
+.next {
+    float: right;
+    height: 20px;
+    margin: 140px 5px;
+}
+
+.start {
+    border: solid 2px #00b3ee;
+    border-radius: 4px;
+    padding: 20px;
+    height: 260px;
+    width: 484px;
+    margin: 20px auto;
+    background-color: #00b3ee;
+    z-index: 9999;
+    position: relative;
+}
+
+.student {
+    border: solid 2px #00b3ee;
+    border-radius: 4px;
+    padding: 20px;
+    height: 260px;
+    width: 400px;
+    margin: 20px auto;
+    background-color: #00b3ee;
+
+}
+
+p {
+    padding 20px 20px 20px 20px;
+    margin: 30px auto;
+    font-size: 20px;
+}
+
